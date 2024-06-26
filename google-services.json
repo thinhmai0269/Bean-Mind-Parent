@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799171411051",
+    "project_id": "bean-mind-paret",
+    "storage_bucket": "bean-mind-paret.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799171411051:android:45f4f2203b3f50a39cc52e",
+        "android_client_info": {
+          "package_name": "BeanMind.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSVSsNlIZCA6Zs1UIB1xCTtSzEOTW0QJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
